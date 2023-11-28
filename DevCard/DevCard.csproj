@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\style.css" />
+    <None Include="wwwroot\assets\css\theme-1.css" />
+    <None Include="wwwroot\assets\fontawesome\js\all.js" />
+    <None Include="wwwroot\assets\fonts\IranianSans.eot" />
+    <None Include="wwwroot\assets\fonts\IranianSans.svg" />
+    <None Include="wwwroot\assets\fonts\IranianSans.ttf" />
+    <None Include="wwwroot\assets\fonts\IranianSans.woff" />
+    <None Include="wwwroot\assets\fonts\IranianSans.woff2" />
+    <None Include="wwwroot\assets\images\blog\blog-post-banner.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-1.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-2.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-3.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-4.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-5.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-6.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-card-1.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-card-2.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-card-3.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-card-4.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-card-5.jpg" />
+    <None Include="wwwroot\assets\images\blog\blog-post-thumb-card-6.jpg" />
+    <None Include="wwwroot\assets\images\clients\profile-1.png" />
+    <None Include="wwwroot\assets\images\clients\profile-2.png" />
+    <None Include="wwwroot\assets\images\clients\profile-3.png" />
+    <None Include="wwwroot\assets\images\clients\profile-4.png" />
+    <None Include="wwwroot\assets\images\clients\profile-5.png" />
+    <None Include="wwwroot\assets\images\clients\profile-6.png" />
+    <None Include="wwwroot\assets\images\project\food.jpg" />
+    <None Include="wwwroot\assets\images\project\humanresource.png" />
+    <None Include="wwwroot\assets\images\project\project-1.jpg" />
+    <None Include="wwwroot\assets\images\project\project-2.jpg" />
+    <None Include="wwwroot\assets\images\project\project-3.jpg" />
+    <None Include="wwwroot\assets\images\project\project-4.jpg" />
+    <None Include="wwwroot\assets\images\project\project-5.jpg" />
+    <None Include="wwwroot\assets\images\project\project-6.jpg" />
+    <None Include="wwwroot\assets\images\project\project-7.jpg" />
+    <None Include="wwwroot\assets\images\project\project-8.jpg" />
+    <None Include="wwwroot\assets\images\project\project-figure-1.jpg" />
+    <None Include="wwwroot\assets\images\project\project-figure-2.jpg" />
+    <None Include="wwwroot\assets\images\project\taxi.jpg" />
+    <None Include="wwwroot\assets\images\project\turn.png" />
+    <None Include="wwwroot\assets\images\Yaser.jpg" />
+    <None Include="wwwroot\assets\plugins\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\plugins\jquery-3.4.1.min.js" />
+    <None Include="wwwroot\assets\plugins\popper.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
